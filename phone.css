@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  background: yellow;
+  font-family: monospace;
+  font-size: 19px;
+  text-align: center;
+  position: relative;
+  top: 52px;
+}
