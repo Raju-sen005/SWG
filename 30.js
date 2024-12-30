@@ -14,9 +14,11 @@ const swg = (user, cpu) => {
 		(user === "W" && cpu === "G") ||
 		(user === "G" && cpu === "S")
 	) {
-		return "You win!";
+		 		alert("You win!");
+
 	} else {
-		return "CPU win!";
+				alert("CPU win!");
+
 	}
 };
 // runAg= alert("play again!")
